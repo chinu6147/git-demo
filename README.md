@@ -1,2 +1,4 @@
 # git-demo
-thisis my git demo repository
+this is my git demo repository
+name - chinmay asodekar 
+
